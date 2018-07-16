@@ -32,6 +32,6 @@ function accessElementInArray(array, index){
 		}	
 	function removeElementFromEndOfArray(array){
 			
-	 array.slice(0,-1);
+	return array.slice(0,-1);
 			//return array;
 		}
