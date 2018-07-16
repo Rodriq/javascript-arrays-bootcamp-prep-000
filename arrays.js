@@ -7,3 +7,4 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 	 array[0]=(element);
 	 return array
 	}
+	
